@@ -1,3 +1,3 @@
 # Núcleo tecnológico do PAD-UFES
 
-- Descrição em breve
+Para mais informações acesse [https://pad.ufes.br/padtech](https://pad.ufes.br/padtech)
